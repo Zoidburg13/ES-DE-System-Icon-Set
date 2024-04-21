@@ -6,6 +6,7 @@ more compact system icons to be used in a narrow carousel
 
 - 2 sets available with and without dropshadow
 - some additional icons in the same format
+- icons for all es-de systems and more :)
 
 ## note
 
