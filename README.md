@@ -19,3 +19,6 @@ more compact system icons to be used in a narrow carousel
 ## Preview
 example of system carousel in my WIP Theme.
 ![cps1](https://github.com/Zoidburg13/ES-DE-System-Icon-Set/assets/159597576/ca864df5-2d6e-4ffc-a58a-38eadbe64f53)
+White Transparent Icons Preview
+![transparent preview](https://github.com/user-attachments/assets/29ce4589-edff-4665-9960-f6716920c607)
+
