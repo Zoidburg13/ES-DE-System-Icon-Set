@@ -12,6 +12,7 @@ more compact system icons to be used in a narrow carousel
 
 ## note
 
+- icon .PNG's are quite large so batch downscale them to desired size for performance
 - Matching Marquee's will be added once finished.
 - SVG versions are WIP and may some day in the distant future also be added :)
 
